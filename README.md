@@ -1,14 +1,5 @@
-# example_for_flutter_plugin_local_maven
+# How to write flutter plugin when SDK only provides aar file
 
-A new flutter plugin project.
+See android/aar/depoly.sh and android/build.gradle
 
-## Getting Started
-
-This project is a starting point for a Flutter
-[plug-in package](https://flutter.dev/developing-packages/),
-a specialized package that includes platform-specific implementation code for
-Android and/or iOS.
-
-For help getting started with Flutter, view our 
-[online documentation](https://flutter.dev/docs), which offers tutorials, 
-samples, guidance on mobile development, and a full API reference.
+Related blog: https://kikt.top/posts/flutter/plugin/flutter-sdk-import-aar/
