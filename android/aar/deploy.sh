@@ -1,0 +1,1 @@
+mvn deploy:deploy-file -Dfile=sdk.aar -Durl="file://." -DgroupId="com.pgyer" -DartifactId="sdk" -Dversion="3.0.9"
